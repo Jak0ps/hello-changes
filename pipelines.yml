@@ -2,7 +2,7 @@ resources:
   - name: Jak0ps
     type: GitRepo
     configuration:
-      gitProvider: benanasdonuts               # Change to your integration
+      gitProvider: Jak0ps               # Change to your integration
       path: Jak0ps/hello-changes                 # Change to your repo
 
 pipelines:

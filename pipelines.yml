@@ -13,8 +13,6 @@ pipelines:
         configuration:
           environmentVariables:
             test: "123"
-          runtime:           
-            type: host
           inputResources: 
             - name: Jak0ps
           integrations:
